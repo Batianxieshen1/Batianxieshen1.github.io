@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.batianxieshen1.twa",
+        "sha256_cert_fingerprints": ["6E:FA:BB:5B:51:33:BA:4D:6F:0C:1F:62:4C:BB:8F:14:00:A7:C6:1E:33:1D:4E:8D:B1:F8:D5:FD:5B:87:BE:EB"]
+      }
+    }]
